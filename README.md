@@ -84,6 +84,7 @@ Lets login using comte ``ssh -i id_rsa comte@10.10.108.215`` on the terminal of 
 then access the user.txt file using ``cat user.txt``
 
 PRIVELAGE ESCALATION 
+
 lets see the commands that have root access by ``sudo -l``
 
 ![Screenshot From 2025-05-24 13-51-28](https://github.com/user-attachments/assets/ca4bf30a-18d2-4ae8-bd5d-2bb95a993efb)
